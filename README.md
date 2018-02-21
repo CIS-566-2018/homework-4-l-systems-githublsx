@@ -129,7 +129,7 @@ I use dat.GUI to make lots of aspects of the demo an interactive variable, inclu
 	* Lightvecz: Directionz of Direction light
 	* Lightlerp: Lerp between point and direction light vec
 	* Lightambient: Add ambient to the color
-* Load Scene: Remember to press load scene to regenerate the tree after modifying the attributes!
+* Generate: Remember to press Generate to regenerate the tree after modifying the attributes!
 
 ### More screenshots
 
